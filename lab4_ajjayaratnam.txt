@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: linuxmint
+    Linux system name: ajjayaratnam
+    Python executable: /usr/bin/python3
+    Python version: 3104
+    OS Platform: linux
+    Working Directory: /home/linuxmint/ops445/lab4
+    Start at: Wed Oct  9 11:56:30 2024
+=================================================================
